@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChangyuanbWang
+- 👋 Hi, I’m @ChangyuanWang
 - 👀 I’m interested in playing pingpong,short-running.
 - 🌱 I’m currently learning senior mathematics and improving my ability of doing researches.
 - 💞️ I’m looking to collaborate on those who share the same interest and personality with me.
