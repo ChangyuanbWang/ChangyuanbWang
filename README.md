@@ -1,14 +1,14 @@
-- 👋 Hi, I’m @ChangyuanWang
-- 👀 I’m interested in playing pingpong,short-running.
-- 🌱 I’m currently learning senior mathematics and improving my ability of doing researches.
-- 💞️ I’m looking to collaborate on those who share the same interest and personality with me.
-- 📫 How to reach me :my phone number 13696569212
-- 😄 Pronouns: xiao Wang,Bro yuan.
-- ⚡ Fun fact:I'm a person who speaks louder than do.
--              I'm guy who always appear at the deadline
--    advantages:I'm a person who always think others before myself,a person who are quiet and hard-working.
--    shortages:I may be to shy to make new friends,I'm a little lazy to fully complete an issue.
-'m<!---
-ChangyuanWang/ChangyuanWang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- 👋嗨，我是@ChangyuanWang
+- 👀 我对打乒乓球、短跑很感兴趣。
+- 🌱我目前正在学习高级数学并提高我的研究能力。
+- 💞️ 我希望与那些与我有相同兴趣和性格的人合作。
+- 📫如何联系我：我的电话号码13696569212
+- 😄 代词：小王，远哥。
+- ⚡ 有趣的事实：我是一个说话比做事大声的人。
+-              我是一个总是受压点出现的人
+-    优点：我是一个先想别人后自己的人，一个安静、勤奋的人。
+-    由此：我可能会因为结交新朋友而感到羞愧，我有点懒于完全完成一个问题。
+我<！---
+ChangyuanWang/ChangyuanWang 是一个 ✨ 特殊 ✨ 存储库，因为它的“ README.md ”（此文件）出现在您的 GitHub 个人资料上。
+您可以点击预览链接来查看您的更改。
 --->
